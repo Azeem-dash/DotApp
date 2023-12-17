@@ -1,0 +1,15 @@
+module.exports = {
+  swap: require('./../assets/swap.png'),
+  swapActive: require('./../assets/swapActive.png'),
+  chat: require('./../assets/chat.png'),
+  chatActive: require('./../assets/chatActive.png'),
+  settings: require('./../assets/gear.png'),
+  settingsActive: require('./../assets/gearActive.png'),
+  ETH: require('./../assets/ETH.png'),
+  USDC: require('./../assets/USDC.png'),
+  Calculator:require('../assets/Calculator.png'),
+  convert:require('../assets/convert.png'),
+  alert:require('../assets/alert.png'),
+  trending:require('../assets/trending.png'),
+  fav:require('../assets/fav.png'),
+};

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="174px" height="283px" viewBox="0 0 174 283" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ethereum-eth-logo</title>
+    <g id="design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ethereum-eth-logo" fill-rule="nonzero">
+            <polygon id="Path" fill="#8A92B2" points="87 0 0 144 87 104.559178"></polygon>
+            <path d="M86.9919407,104.394912 L0,143.773771 L86.9919407,195 L86.9919407,104.394912 Z M174,143.773771 L86.9919407,0 L86.9919407,104.394912 L174,143.773771 Z" id="Shape" fill="#62688F"></path>
+            <polygon id="Path" fill="#454A75" points="87 195 174 144.115875 87 105"></polygon>
+            <polygon id="Path" fill="#8A92B2" points="0 161 87 283 87 212.151459"></polygon>
+            <polygon id="Path" fill="#62688F" points="87 212.151459 87 283 174 161"></polygon>
+        </g>
+    </g>
+</svg>
